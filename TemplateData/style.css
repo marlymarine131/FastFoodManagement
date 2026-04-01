@@ -5,8 +5,7 @@ body {
 }
 #unity-container {
   position: absolute;
-  width: 100vw; 
-  height: 100vh;
+  
 }
 #unity-container.unity-desktop {
   left: 80%;
